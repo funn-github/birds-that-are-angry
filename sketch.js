@@ -39,8 +39,8 @@ function preload(){
   restartImg = loadImage("restart.png");
   
   jumpSound = loadSound("jump.mp3");
-  dieSound = loadSound("die.mp3");
-  checkSound = loadSound("check.mp3");
+  //dieSound = loadSound("die.mp3");
+  //checkSound = loadSound("check.mp3");
 }
 
 function setup() {
